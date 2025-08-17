@@ -1,24 +1,55 @@
 # E-Learning Platform
 
-#### Home page frontend under construction.
+![build](https://img.shields.io/badge/build-passing-brightgreen) ![license](https://img.shields.io/badge/license-Proprietary-blue)
 
-## Welcome
+## About
 
-Welcome to our **E-Learning Platform**! This cutting-edge platform is designed to provide a seamless and engaging learning experience, similar to Coursera. Whether you're looking to enhance your skills or explore new subjects, our platform offers a wide range of courses and learning resources tailored to your needs.
+This E-Learning Platform provides a seamless and engaging learning experience.  It offers a range of courses and resources tailored to diverse learning needs.
 
-## Planned Key Features
+## Table of Contents
 
-- **Course Catalog**: Browse and enroll in a diverse range of courses across various disciplines.
-- **Interactive Learning**: Engage with interactive content, quizzes, and assignments to enhance your learning experience.
-- **Progress Tracking**: Monitor your course progress and track your achievements with comprehensive dashboards.
-- **Certification**: Earn certificates upon successful completion of courses to showcase your skills.
-- **User Profiles**: Create and manage your profile, view your learning history, and connect with other learners.
+- [About](#about)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [License](#license)
+- [Author](#author)
 
-## Basic Technologies Planned
+## Features
 
-- **Frontend**: React.js, TypeScript, Redux, and Tailwind CSS for a responsive and dynamic user interface.
-- **Backend**: Node.js, Express.js, and MongoDB for robust and scalable server-side operations.
-- **Authentication**: JWT and bcrypt for secure user management.
-- **Course Management**: Custom-built features for course creation, enrollment, and tracking.
+- Course Catalog
+- Interactive Learning
+- Progress Tracking
+- Certification
+- User Profiles
 
-#### Get Started...!!!
+## Tech Stack
+
+- **Frontend:** React.js, TypeScript, Redux, Tailwind CSS
+- **Backend:** Node.js, Express.js, MongoDB
+- **Authentication:** JWT, bcrypt
+
+## Getting Started
+
+1. Clone the repository.
+2. Copy the `.env.example` file to `.env` and configure the environment variables.
+3. Run `npm install` to install dependencies.
+
+## Usage
+
+- Client: `npm run dev`
+- Server: `npm run start`
+
+## License
+
+This project is licensed under a Proprietary License.  The specific terms and conditions of this license are not publicly available.  Contact the author for more information.
+
+
+## Author
+
+**Ananthu M A**
+
+- GitHub: [Ananthu-M-A](https://github.com/Ananthu-M-A)
+- Portfolio: [https://ananthuma.com](https://ananthuma.com)
+- Email: ananthumapookkad@gmail.com
